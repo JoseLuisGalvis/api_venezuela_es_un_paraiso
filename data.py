@@ -6,6 +6,7 @@ turistic_sites = [
         "ubicacion": "Bolívar",
         "clasificacion": "Selva",
         "atractivo": "La cascada más alta del mundo.",
+        "imagen": "https://raw.githubusercontent.com/tu_usuario/vzla_API/main/static/imagenes/salto_angel.jpg",
         "caracteristicas": [
             "Altura de 979 metros.",
             "Ubicada en el Parque Nacional Canaima.",
