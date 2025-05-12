@@ -7,7 +7,7 @@ app = FastAPI(title="API de Sitios Turísticos de Venezuela")
 
 @app.get("/")
 def root():
-    return {"mensaje": "Bienvenido a la API de sitios turísticos de Venezuela"}
+    return {"mensaje": "Bienvenidos a Venezuela, Tierra de Hermosos Paisajes y Gente Buena...!"}
 
 @app.get("/sitios")
 def get_all_sites():

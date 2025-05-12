@@ -162,7 +162,7 @@ turistic_sites = [
         "ubicacion": "Miranda",
         "clasificacion": "Montaña",
         "atractivo": "Bosque nublado y ríos.",
-        "imagen": "https://raw.githubusercontent.com/JoseLuisGalvis/api_venezuela_es_un_paraiso/main/static/images/parque_roraima.webp",
+        "imagen": "https://raw.githubusercontent.com/JoseLuisGalvis/api_venezuela_es_un_paraiso/refs/heads/main/static/images/parque_guatopo.webp",
         "caracteristicas": [
             "Senderos para caminatas.",
             "Observación de aves.",
@@ -188,6 +188,7 @@ turistic_sites = [
         "ubicacion": "Zulia",
         "clasificacion": "Montaña",
         "atractivo": "Bosques nublados y ríos.",
+        "imagen": "https://raw.githubusercontent.com/JoseLuisGalvis/api_venezuela_es_un_paraiso/refs/heads/main/static/images/sierra_perija.webp",
         "caracteristicas": [
             "Senderos para caminatas.",
             "Observación de aves.",
@@ -265,7 +266,7 @@ turistic_sites = [
         "ubicacion": "Lara",
         "clasificacion": "Montaña",
         "atractivo": "Bosques secos y ríos.",
-        "imagen": "https://raw.githubusercontent.com/JoseLuisGalvis/api_venezuela_es_un_paraiso/main/static/images/parque_terepaima.webp",
+        "imagen": "https://raw.githubusercontent.com/JoseLuisGalvis/api_venezuela_es_un_paraiso/refs/heads/main/static/images/parque_terepaima.webp",
         "caracteristicas": [
             "Senderos para caminatas.",
             "Observación de fauna.",
